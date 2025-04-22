@@ -11,10 +11,8 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
+- desktop-first workflow
 - java script
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 In this project, I learned how to manipulate the DOM and handle real-time input using JavaScript.
