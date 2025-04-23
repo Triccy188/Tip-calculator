@@ -115,6 +115,10 @@ header {
   background-color: hsl(172, 67%, 45%);
   color: hsl(183, 100%, 15%);
 }
+.percentage.active {
+  background-color: #26c0ab;
+  color: white;
+}
 .percentaged:focus {
   border: 2px solid hsl(172, 67%, 45%);
   color: hsl(183, 100%, 15%);
