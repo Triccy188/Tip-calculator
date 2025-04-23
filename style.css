@@ -4,6 +4,7 @@
   margin: 0;
   box-sizing: border-box;
 }
+
 body {
   width: 100vw;
   height: 100vh;
@@ -201,6 +202,14 @@ header {
   font-size: 1.5rem;
   margin-top: 4px;
 }
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+
 @media (max-width: 1200px) {
   .container {
     grid-template-columns: 1fr; /* Stack them vertically */
